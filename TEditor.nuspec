@@ -2,17 +2,26 @@
 <package >
   <metadata>
     <id>TEditor</id>
-    <version>1.0.0</version>
+    <version>1.0.3</version>
     <title>TEditor</title>
-    <authors>Michael Ridland @ XAM Consulting</authors>
-    <owners>Michael Ridland @ XAM Consulting</owners>
+    <authors>XAM Consulting</authors>
+    <owners>XAM Consulting</owners>
     <projectUrl>https://github.com/XAM-Consulting/TEditor</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Awesome HTML editor in Xamarin.Forms</description>
     <tags>Xamarin, Xamarin.Forms, TEditor</tags>
     <releaseNotes>
 1.0.0
-[feature] Support Android and iOS in Xamarin.Forms
+[feature] Support Android and iOS in Xamarin.Forms.
+
+1.0.1
+[feature] Add change title feature.
+
+1.0.2
+[feature] Add discard change feature.
+
+1.0.3
+[fix] iOS 11 crash issue.
     </releaseNotes>
   </metadata>
   <files>
